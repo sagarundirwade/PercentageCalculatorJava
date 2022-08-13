@@ -1,3 +1,4 @@
+//  packge yourchoice;  
 import java.util.Scanner;
 
 public class mycode1 {
